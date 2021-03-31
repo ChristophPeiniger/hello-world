@@ -1,6 +1,6 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {Hello-world in HTML}
+#### {A small webpage using simple HTML to great the world}, {Date 30.03.21}
+#### By **{Chrsitoph Peiniger}**
 ## Description
 {This is the first try and first massage on how to create a .HTML file. "Hello world" comes from a tradition in software and web development that is used to create a file once a new language is about to be lerned. }
 ## Setup/Installation Requirements
@@ -34,4 +34,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.}*
-Copyright (c) {2021} **{List of contributors or company name}**
+Copyright (c) {2021} **{Christoph Peiniger}**
